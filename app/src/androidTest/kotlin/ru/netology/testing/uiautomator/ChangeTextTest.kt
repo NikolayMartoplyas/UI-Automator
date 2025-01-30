@@ -25,7 +25,7 @@ class ChangeTextTest {
     private lateinit var device: UiDevice
     private val textToSet = "Netology"
     private val spaces = "  "
-    private val greetings = "Hello, UiAutomator!"
+    private val greetings = "Hello UiAutomator!"
 
 //    @Test
 //    fun testInternetSettings() {
